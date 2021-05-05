@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Medium Articles to follow Steps:
+https://hemantjain.medium.com/full-stack-note-app-ci-cd-deployment-on-aws-amplify-part-1-21ab17219dfe
+
+https://hemantjain.medium.com/full-stack-note-app-ci-cd-deployment-on-aws-amplify-part-2-ecc4e1bb11c0
+
 ## Available Scripts
 
 In the project directory, you can run:
